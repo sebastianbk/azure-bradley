@@ -15,7 +15,6 @@ echo Buidling: azure-iot-sdk-python
 
 echo Copying dependencies to client folder
 cp azure-iot-sdk-python/device/samples/iothub_client.so client/iothub_client.so
-cp azure-iot-sdk-python/device/samples/iothub_client.so client/iothub_client.so
 cp azure-iot-sdk-python/device/samples/iothub_client_args.py client/iothub_client_args.py
 cp azure-iot-sdk-python/device/samples/iothub_client_cert.py client/iothub_client_cert.py
 

@@ -1,7 +1,7 @@
 Project Azure-Bradley
 =====================
 
-This project uses the [Azure IoT Hub Device SDK for Python](https://github.com/Azure/azure-iot-sdk-python) and the [cpppo](https://github.com/pjkundert/cpppo) repository to connect an EtherNet/IP-capable device to an Azure IoT Hub. The project currently supports connecting to only one device per proces. Multiple tags from one device can be extracted at a user-defined interval and sent to the IoT Hub.
+This project uses the [Azure IoT Hub Device SDK for Python](https://github.com/Azure/azure-iot-sdk-python) and the [cpppo](https://github.com/pjkundert/cpppo) repository to connect an EtherNet/IP-capable device to an Azure IoT Hub. The project currently supports connecting to only one device per process. Multiple tags from one device can be extracted at a user-defined interval and sent to the IoT Hub.
 
 Cloning this project
 --------------------
