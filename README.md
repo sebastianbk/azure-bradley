@@ -85,3 +85,23 @@ Disclaimer
 ----------
 THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
 HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+[visual-studio]: https://www.visualstudio.com/downloads/
+[device-explorer]: https://github.com/Azure/azure-iot-sdks/tree/master/tools/DeviceExplorer
+[toradex-CE8-sdk]:http://docs.toradex.com/102578
+[application-builder]:http://www.microsoft.com/download/details.aspx?id=38819
+[azure-shared-c-utility]:https://github.com/Azure/azure-c-shared-utility
+[azure-uamqp-c]:https://github.com/Azure/azure-uamqp-c
+[azure-umqtt-c]:https://github.com/Azure/azure-umqtt-c
+[Releases of azure-iot-sdk-c]:https://github.com/Azure/azure-iot-sdk-c/releases
+[solution(.sln) file]:https://msdn.microsoft.com/en-us/library/bb165951.aspx
+[NuGet]:https://www.nuget.org/
+[CMake]:https://cmake.org/
+[MSBuild]:https://msdn.microsoft.com/en-us/library/0k6kkbsd.aspx
+[OpenSSL]:https://www.openssl.org/
+[OpenSSL Downloads]: https://www.openssl.org/source/
+[OpenSSL Installation]:https://github.com/openssl/openssl/blob/master/INSTALL
+[Compilation_and_Installation]:https://wiki.openssl.org/index.php/Compilation_and_Installation#Windows
+[Ubuntu]:http://www.ubuntu.com/desktop
+[gcc]:https://gcc.gnu.org/
+[make]:https://www.gnu.org/software/make/
