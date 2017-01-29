@@ -1,0 +1,4 @@
+client/*.so
+client/*.pyc
+client/iothub_client_args.py
+client/iothub_client_cert.py
