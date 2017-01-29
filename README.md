@@ -62,7 +62,7 @@ python azurebradley_client.py -c "AZURE-IOT-HUB-DEVICE-CONNSTRING"
 You need to replace `AZURE-IOT-HUB-DEVICE-CONNSTRING` with your own connection string. See [this guide from ThingLabs](http://web.archive.org/web/20160710185640/http://thinglabs.io/setup-azure-iot-hub) to learn how to create an IoT Hub, create a device and find the connection string of the newly created device. Below is an example of the complete command with a fake connection string:
 
 ```
-python azurebradley_client.py - c "HostName=youriothub.azure-devices.net;DeviceId=DemoDevice01;SharedAccessKey=YamIPc/t6qR5g2R99nG3RRjGcbRq2Cn36oMmXPGdfkw="
+python azurebradley_client.py -c "HostName=youriothub.azure-devices.net;DeviceId=DemoDevice01;SharedAccessKey=YamIPc/t6qR5g2R99nG3RRjGcbRq2Cn36oMmXPGdfkw="
 ```
 
 After running the command you should start to see some output in the terminal. Here is an example of what the output looks like:
