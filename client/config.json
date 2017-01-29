@@ -1,0 +1,5 @@
+{
+    "plc-ipaddress": "192.168.1.21",
+    "tags": ["FT101.Inp_PV", "LT101.Inp_PV", "VLV101.Inp_OpenLS", "VLV101.Inp_ClosedLS"],
+    "interval": 1
+}
